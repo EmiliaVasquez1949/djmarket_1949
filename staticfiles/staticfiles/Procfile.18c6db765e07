@@ -1,0 +1,1 @@
+web: gunicorn setting_djmarket.wsgi --log-file -
